@@ -1,0 +1,1 @@
+update product set finalprice=price-((price*discount)/100);

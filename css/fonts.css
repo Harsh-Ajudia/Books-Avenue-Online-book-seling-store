@@ -1,0 +1,31 @@
+/*Google Roboto family*/
+@font-face {
+    font-family: Roboto-Regular;
+    src: url(../fonts/RobotoTTF/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto-Thin;
+    src: url(../fonts/RobotoTTF/Roboto-Thin.ttf);
+}
+@font-face {
+    font-family: Roboto-Medium;
+    src: url(../fonts/RobotoTTF/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: Roboto-Light;
+    src: url(../fonts/RobotoTTF/Roboto-Light.ttf);
+}
+/*Google NotoSans family*/
+@font-face {
+    font-family: NotoSans-Regular;
+    src: url(../fonts/NotoSans-hinted/NotoSans-Regular.ttf);
+}
+/*Triunfo family
+#Note:
+#Do not use this fonts anywhere as it is copyrighted
+#This is License Version of the fonts
+*/
+@font-face {
+    font-family: Triunfo-Regular;
+    src: url(../fonts/Triunfo fonts/Triunfo-PACK-7/PACK 7/Triunfo Regular Cond Rustik.otf);
+}
